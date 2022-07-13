@@ -1,3 +1,5 @@
+# Write a function to reverse the given array
+
 def iter_rev(arr):
     res = []
     for i in range(len(arr) -1, -1, -1):
